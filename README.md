@@ -34,7 +34,7 @@ You will be automatically logged in as the `student` user.
 
 ---
 
-## 📂 Vault Location (Obsidian)
+## Vault Location (Obsidian)
 
 When you open Obsidian, use the preloaded vault located at:
 
@@ -96,6 +96,7 @@ If you encounter issues with the VM or tools, please bring them up during the wo
 This VM was built for education, ethical testing, and professional development. Do **not** use any included tools or techniques for unauthorized activity. Always operate within the bounds of your legal and ethical scope.
 
 Happy pretexting — and remember: **Always trust, but verify.**
-```
+
+
 - GFK
----
+
