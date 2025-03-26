@@ -39,7 +39,7 @@ You will be automatically logged in as the `student` user.
 When you open Obsidian, use the preloaded vault located at:
 
 ```
-/home/student/obsidian-vault/
+/home/student/Documents/Influence Ops/
 ```
 
 This contains:
@@ -49,9 +49,9 @@ This contains:
 
 ---
 
-## 🧪 Hashes for Verification
+## Hashes for Verification
 
-### 🔹 **VirtualBox (.ova)**
+### **VirtualBox (.ova)**
 
 - **Filename:** `PretextOps_VM_VirtualBox.ova`
 - **SHA256:**  
@@ -59,7 +59,7 @@ This contains:
   [INSERT SHA256 HASH HERE]
   ```
 
-### 🔹 **VMware (.ovf + .vmdk)**
+### **VMware (.ovf + .vmdk)**
 
 - **Filename:** `PretextOps_VM_VMware.zip`  
 - **SHA256:**  
@@ -85,7 +85,7 @@ Use a tool like `sha256sum` or `shasum -a 256` to verify the integrity of your d
 
 ---
 
-## 📚 Questions or Issues?
+## Questions or Issues?
 
 If you encounter issues with the VM or tools, please bring them up during the workshop or reach out to the instructor. All tools are open-source and documented online, and you're encouraged to explore!
 
