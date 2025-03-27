@@ -12,6 +12,9 @@ All tools are open source and pre-installed. The VM has been optimized for low-r
 
 ## VM Overview
 
+![image](https://github.com/user-attachments/assets/8a7ac5f4-513f-407f-879c-f8568a72479a)
+
+
 - **OS:** Ubuntu 22.04 LTS (Minimal Install)
 - **Preinstalled Tools:**
   - [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) – Super awesome collection of OSINT tools and other information! Thank you Hatless1der!
