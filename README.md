@@ -16,6 +16,22 @@ All tools are open source and pre-installed. The VM has been optimized for low-r
 
 ![image](https://github.com/user-attachments/assets/8a7ac5f4-513f-407f-879c-f8568a72479a)
 
+Sure! Here's a clean, professional note you can post or share with students:
+
+---
+
+### ⚠️ **VM Notice for Class**
+
+There is currently a **temporary error with the VMware version** of the virtual machine.
+
+✅ **Fix**:  
+Download the **VirtualBox version** of the VM instead and import the **`.ovf` file** directly into VMware.
+
+We’ve tested this workaround and it **loads and runs successfully** in VMware.
+
+---
+
+Want this as a printable PDF or LMS announcement format? Just say the word!
 
 - **OS:** Ubuntu 22.04 LTS (Minimal Install)
 - **Preinstalled Tools:**
