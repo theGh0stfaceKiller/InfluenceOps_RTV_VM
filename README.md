@@ -1,7 +1,9 @@
 # InfluenceOps: Tactical Pretexting - Student VM  
 **Workshop Virtual Machine for InfluenceOps: Tactical Pretexting**
 
-  ![RTVIO](https://github.com/user-attachments/assets/8654eed4-6544-4b1b-955e-55587f261889)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8654eed4-6544-4b1b-955e-55587f261889" alt="RTVIO" width="500"/>
+</p>
 
 Welcome to the InfluenceOps Student VM — a lightweight Ubuntu-based virtual machine preloaded with everything you need for hands-on exercises in OSINT, persona building, and scenario development as part of the **InfluenceOps: Tactical Pretexting** workshop.
 
