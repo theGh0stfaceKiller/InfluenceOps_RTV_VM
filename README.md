@@ -25,6 +25,9 @@ There is currently a **temporary error with the VMware version** of the virtual 
 ✅ **Fix**:  
 Download the **VirtualBox version** of the VM instead and import the **`.ovf` file** directly into VMware.
 
+![image](https://github.com/user-attachments/assets/37a4edab-8dc0-4147-8e8a-9ebe3f5162a2)
+
+
 We’ve tested this workaround and it **loads and runs successfully** in VMware.
 
 ---
