@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="![1742829722739](https://github.com/user-attachments/assets/3986ae7e-4e09-42c6-8168-5fc1065c84f9)"/>
+  <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/user-attachments/assets/cb43e26d-8b3f-4b8b-b6e4-52da0d545872)">
 </p>
 
 
