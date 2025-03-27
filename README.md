@@ -82,11 +82,9 @@ This contains:
 1. **Download the appropriate VM file for your platform.**
 2. **Verify the hash** (optional but recommended).
 3. **Import the VM:**
-   - **VirtualBox:**  
-     Open VirtualBox → File → Import Appliance → Select `.ova` file
-   - **VMware Player:**  
-     Open VMware → File → Open → Select `.ovf` file
-4. **Start the VM.**  
+   - VirtualBox: Open the VirtualBox Manager, go to "File" > "Import Appliance," select the OVF/OVA file, and follow the wizard to configure the import settings.
+   - VMware: "Create a new virtual machine" > Point it to the ISO file location.
+5. **Start the VM.**  
    Log in using the credentials above.
 
 ---
