@@ -55,9 +55,11 @@ This contains:
 
  [Download VM Images Here](https://drive.proton.me/urls/GK9WG466HM#vLDCeqZ5A9Yo)
 
-### **VirtualBox (.ova)**
+ It is highly advised you use [7Zip](https://www.7-zip.org/) (Free) to unzip your files. 
 
-- **Filename:** `PretextOps_VM_VirtualBox.ova`
+### **VirtualBox (.ovf)**
+
+- **Filename:** `InfluenceOps_VM_VirtualBox.ovf`
 - **SHA256:**  
   ```
   [INSERT SHA256 HASH HERE]
@@ -65,7 +67,7 @@ This contains:
 
 ### **VMware (.ovf + .vmdk)**
 
-- **Filename:** `PretextOps_VM_VMware.zip`  
+- **Filename:** `InfluenceOps_VM_VMware.zip`  
 - **SHA256:**  
   ```
   [INSERT SHA256 HASH HERE]
