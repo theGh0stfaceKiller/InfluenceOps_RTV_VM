@@ -67,7 +67,7 @@ This contains:
   certutil -hashfile "C:\path\to\your\file.txt" SHA256
   ```
 
-### **VMware (.ovf + .vmdk)**
+### **VMware (.iso)**
 
 - **Filename:** `InfluenceOps_VM_VMware.7z`  
 - **SHA256:**  2fdce58af1cd00ee99b00daba1dda250a71e423ea2b25f991a7c632e18858dc1
