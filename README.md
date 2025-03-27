@@ -57,12 +57,14 @@ This contains:
 
  It is highly advised you use [7Zip](https://www.7-zip.org/) (Free) to unzip your files. 
 
+ (Optional) Verify the integrity of your download before importing.
+
 ### **VirtualBox (.ovf)**
 
-- **Filename:** `InfluenceOps_VM_VirtualBox.ovf`
+- **Filename:** `InfluenceOps_VM_VirtualBox.7z`
 - **SHA256:**  
   ```
-  [INSERT SHA256 HASH HERE]
+  certutil -hashfile "C:\path\to\your\file.txt" SHA256
   ```
 
 ### **VMware (.ovf + .vmdk)**
@@ -72,8 +74,6 @@ This contains:
   ```
   certutil -hashfile "C:\path\to\your\file.txt" SHA256
   ```
-
-Use a tool like `sha256sum` or `shasum -a 256` to verify the integrity of your download before importing.
 
 ---
 
