@@ -67,10 +67,10 @@ This contains:
 
 ### **VMware (.ovf + .vmdk)**
 
-- **Filename:** `InfluenceOps_VM_VMware.zip`  
-- **SHA256:**  
+- **Filename:** `InfluenceOps_VM_VMware.7z`  
+- **SHA256:**  2fdce58af1cd00ee99b00daba1dda250a71e423ea2b25f991a7c632e18858dc1
   ```
-  [INSERT SHA256 HASH HERE]
+  certutil -hashfile "C:\path\to\your\file.txt" SHA256
   ```
 
 Use a tool like `sha256sum` or `shasum -a 256` to verify the integrity of your download before importing.
