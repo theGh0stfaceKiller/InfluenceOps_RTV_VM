@@ -82,9 +82,3 @@ This repository and its contents are shared under the [Creative Commons Attribut
 Feel free to open an issue or submit a pull request if you'd like to contribute additional resources.
 
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c4545009-484d-4363-a935-44dfa116cb7c"/>
-</p>
-
-
