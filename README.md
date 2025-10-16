@@ -56,7 +56,7 @@ To follow along or run exercises locally, install a virtualization platform and 
 
 ## Recommended Tools and Resources
 
-- [OSINT Framework](https://osintframework.com/) — Comprehensive OSINT resource map  
+- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) — Comprehensive OSINT resource page  
 - [HaveIBeenPwned](https://haveibeenpwned.com/) — Credential breach lookup  
 - [Intel Techniques](https://inteltechniques.com) — Search tools for people and metadata  
 - [Email Permutator+](https://www.seoreviewtools.com/email-address-permutator/) — Generate likely corporate email addresses  
