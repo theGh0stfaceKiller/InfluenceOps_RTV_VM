@@ -1,4 +1,4 @@
-# InfluenceOps: Tactical Pretexting - Student Information  
+# InfluenceOps: Tactical Pretexting - Student Repository 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ed5bcfb-346f-4e32-87dc-5939f52414b8" alt="ITOP" width="1234" height="696"/>
