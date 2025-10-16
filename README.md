@@ -5,7 +5,7 @@
 </p>
 
 # InfluenceOps: Tactical Pretexting  
-_A Hands-On Workshop in Advanced Social Engineering_
+_A Hands-On Workshop in Social Engineering_
 
 Pretexting is one of the most underestimated yet effective tools in modern adversarial tradecraft. In this interactive two-hour workshop, we explore how pretexts are constructed, delivered, and adapted in real-world engagements. Participants will learn how to transform raw OSINT into tailored psychological operations that influence targets across physical, digital, and voice-based attack surfaces.
 
@@ -44,7 +44,7 @@ To follow along or run exercises locally, install a virtualization platform and 
 - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)  
   _Free for personal/non-commercial use_
   
-- [Oracle VirtualBox](https://www.virtualbox.org/)  
+- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
   _Open-source virtualization platform_
 
 ### Recommended OS Image
