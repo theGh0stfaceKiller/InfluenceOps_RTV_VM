@@ -9,8 +9,6 @@ _A Hands-On Workshop in Social Engineering_
 
 Pretexting is one of the most underestimated yet effective tools in modern adversarial tradecraft. In this interactive two-hour workshop, we explore how pretexts are constructed, delivered, and adapted in real-world engagements. Participants will learn how to transform raw OSINT into tailored psychological operations that influence targets across physical, digital, and voice-based attack surfaces.
 
-This GitHub repository serves as your central hub for workshop materials, templates, reference content, and tooling. All resources are curated to support both learning and real-world application.
-
 ---
 
 ## What You’ll Learn
