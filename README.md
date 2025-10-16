@@ -81,8 +81,11 @@ This repository and its contents are shared under the [Creative Commons Attribut
 
 Feel free to open an issue or submit a pull request if you'd like to contribute additional resources.
 
+![skull3a]()
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2696d53f-f5ac-4772-88f7-a4f862604af7"/>
+</p>
 
 
-![ghostball](https://github.com/user-attachments/assets/92538e0f-46b7-46b8-b4f6-69d43c1d3c68)
